@@ -4,5 +4,4 @@ This code will work for an arduino or feather. May work for other microcontrolle
 One note, you must change the pin output to match your controller.
 
 Yours,
-
 Spyro260
